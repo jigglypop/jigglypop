@@ -1,1 +1,27 @@
+# JIGGLYPOP
+# 염동환
+* donghwanyeom@gmail.com
+
 [![Solved.ac ydh2244](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydh2244)](https://solved.ac/ydh2244)
+
+### 교육사항
+* 소프트웨어 아카데미 2기 수료 (2019.07.01 ~ 2020.06.30)
+### 자격증
+* 정보처리기사
+* 리눅스 마스터 2급
+* 네트워크 관리사 2급
+
+### 프로젝트
+#### 1) 팀 프로젝트
+* MOVIE STAR (링크) : 소프트웨어 아카데미 영화 추천 사이트 프로젝트
+* COLORBERRY PI (링크) : 라즈베리 파이를 이용한 미술관 프로젝트
+* SSAFY ART : 인공지능을 이용한 사진 화풍묘사 프로젝트
+* SSAFY PORTFOLIO : 구직활동 포트폴리오 프로젝트
+#### 2) 개인 프로젝트
+* LANGUAGE TOGETHER (링크) : 테드, 뉴스 등을 이용한 영어 공부 사이트
+* CAPTURE BLOG (링크) : 마크다운 편집기능 / 회원가입과 댓글 기능, SSR로 SEO 최적화 기능이 있는 블로그
+* MBTI WORLD (링크) : NEXT.JS없는 서버사이드 프로젝트 / 회원가입과 댓글 기능, SSR로 SEO 최적화 기능이 있는 블로그
+* ANGULOG (링크) : 앵귤러 개인 블로그 사이트
+* DT CENTER (링크) : 물류 센터 3D 시뮬레이션 사이트
+* VUELOG (링크) : 뷰 개인 블로그 사이트
+
