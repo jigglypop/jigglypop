@@ -4,6 +4,9 @@
 
 [![Solved.ac ydh2244](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydh2244)](https://solved.ac/ydh2244)
 
+### 활동 사항
+* 멘사 코리아 정회원
+
 ### 교육사항
 * 삼성 소프트웨어 아카데미(SSAFY) 2기 수료 (2019.07.01 ~ 2020.06.30)
 
