@@ -2,6 +2,9 @@
 # 염동환
 * donghwanyeom@gmail.com
 
+### 개인 블로그
+* https://jigglog.netlify.app
+
 [![Solved.ac ydh2244](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydh2244)](https://solved.ac/ydh2244)
 
 ### 경력사항
