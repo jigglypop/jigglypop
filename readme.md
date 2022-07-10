@@ -5,8 +5,6 @@
 ### 개인 블로그
 * https://jigglog.com
 
-[![Solved.ac ydh2244](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydh2244)](https://solved.ac/ydh2244)
-
 ### 경력사항
 * 배달의 민족 인턴 우아한 테크 캠프 4기 수료 (2021.07.05 ~ 2021.08.31)
 * 삼성 소프트웨어 아카데미(SSAFY) 2기 수료 (2019.07.01 ~ 2020.06.30)
