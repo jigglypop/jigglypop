@@ -27,6 +27,8 @@
 * COLORBERRY PI (링크) : 라즈베리 파이를 이용한 미술관 프로젝트
 * SSAFY ART : 인공지능을 이용한 사진 화풍묘사 프로젝트
 * SSAFY PORTFOLIO : 구직활동 포트폴리오 프로젝트
+
+
 #### 2) 개인 프로젝트
 * LANGUAGE TOGETHER (링크) : 테드, 뉴스 등을 이용한 영어 공부 사이트
 * CAPTURE BLOG (링크) : 마크다운 편집기능 / 회원가입과 댓글 기능, SSR로 SEO 최적화 기능이 있는 블로그
