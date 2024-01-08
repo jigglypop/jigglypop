@@ -1,5 +1,6 @@
 # JIGGLYPOP
-# 염동환 (yeom donghwan / south korea / frontend enginear )
+# 염동환 (yeom donghwan / donghwanyeom@gmail.com)
+### ( south korea / frontend enginear )
 
 * donghwanyeom@gmail.com
 * i really like web 3D programming. it is future of web FE
@@ -11,11 +12,12 @@
 * https://jigglog.com
 
 ### 경력사항
-* 배달의 민족 인턴 우아한 테크 캠프 4기 수료 (2021 .07 .05 ~ 2021 .08. 31 )
-* 삼성 소프트웨어 아카데미(SSAFY) 2기 수료 (2019 .07 .01 ~ 2020 .06. 30 )
+* 배달의 민족 인턴 우아한 테크 캠프 4기 수료 (2021.07.05 ~ 2021.08.31 )
+* 삼성 소프트웨어 아카데미(SSAFY / samsung software academy) 2기 수료 (2019.07.01 ~ 2020.06.30 )
+* 농협은행 근무중 (NH Bank in south korea) (2022.01.17 ~ )
 
 ### 활동 사항
-* 멘사 코리아 정회원
+* 멘사 코리아 정회원 (Mensa Korea)
 
 ### 자격증
 * 정보처리기사
