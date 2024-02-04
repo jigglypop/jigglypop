@@ -1,5 +1,5 @@
 # JIGGLYPOP
-# 염동환 (yeom donghwan / donghwanyeom@gmail.com)
+# 염동환 (yeom donghwan)
 ### ( south korea / frontend enginear )
 
 * donghwanyeom@gmail.com
