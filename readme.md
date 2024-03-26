@@ -3,7 +3,6 @@
 ### ( south korea / frontend enginear )
 
 * donghwanyeom@gmail.com
-* i really like web 3D programming. it is future of web FE
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=javascriptguru)](https://solved.ac/javascriptguru)
 
