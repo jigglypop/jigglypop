@@ -6,14 +6,13 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=javascriptguru)](https://solved.ac/javascriptguru)
 
-### 개인 블로그
-
-* https://jigglog.com
+### 개인 블로그 : https://jigglog.com
 
 ### 경력사항
+* 농협은행 근무중 (NH Bank in south korea) (2022.01.17 ~ )
 * 배달의 민족 인턴 우아한 테크 캠프 4기 수료 (2021.07.05 ~ 2021.08.31 )
 * 삼성 소프트웨어 아카데미(SSAFY / samsung software academy) 2기 수료 (2019.07.01 ~ 2020.06.30 )
-* 농협은행 근무중 (NH Bank in south korea) (2022.01.17 ~ )
+
 
 ### 활동 사항
 * 멘사 코리아 정회원 (Mensa Korea)
