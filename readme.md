@@ -4,7 +4,7 @@
 
 * donghwanyeom@gmail.com
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptguru)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptguru)
 
 (https://solved.ac/javascriptguru/)
 
