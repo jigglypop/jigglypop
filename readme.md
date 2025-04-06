@@ -10,7 +10,6 @@
 
 ### 개인 블로그 : https://jigglog.com
 
-
 ### 경력사항
 
 * 농협은행 근무중 (NH Bank in south korea) (2022.01.17 ~ )
