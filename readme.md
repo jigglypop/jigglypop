@@ -5,7 +5,7 @@
 
 * donghwanyeom@gmail.com
 
-[http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptguru](https://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptguru)
+![http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptguru](https://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptguru)
 
 (https://solved.ac/javascriptguru/)
 
